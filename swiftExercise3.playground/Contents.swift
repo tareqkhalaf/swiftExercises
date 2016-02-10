@@ -7,6 +7,8 @@
 * Use a `switch` statment
 * Use a loop statement
 */
+import Foundation
+
 var textDecrypted = "Nearly all men can stand adversity, but if you want to test a man's character, give him power"
 var textEncrypted = ""
 
